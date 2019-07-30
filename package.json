@@ -13,6 +13,7 @@
     "storybook-chromatic": "^2.0.0"
   },
   "scripts": {
+    "build-storybook": "build-storybook -c .storybook",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
